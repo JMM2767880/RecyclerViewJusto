@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos">
+        <item name="fuego">Tipo: Fuego</item>
+        <item name="agua">Tipo: Agua</item>
+        <item name="planta">Tipo: Planta</item>
+        <item name="normal">Tipo: Normal</item>
+        <item name="lucha">Tipo: Lucha</item>
+        <item name="electrico">Tipo: Eléctrico</item>
+        <item name="roca">Tipo: Roca</item>
+        <item name="tierra">Tipo: Tierra</item>
+        <item name="bicho">Tipo: Bicho</item>
+        <item name="veneno">Tipo: Veneno</item>
+        <item name="volador">Tipo: Volador</item>
+        <item name="hielo">Tipo: Hielo</item>
+        <item name="siniestro">Tipo: Siniestro</item>
+        <item name="fantasma">Tipo: Fantasma</item>
+        <item name="psiquico">Tipo: Psíquico</item>
+        <item name="dragon">Tipo: Dragón</item>
+        <item name="Hada">Tipo: Hada</item>
+    </string-array>
+    <string-array name="debilidad">
+        <item name="fuego">Debilidad: Fuego</item>
+        <item name="agua">Debilidad: Agua</item>
+        <item name="planta">Debilidad: Planta</item>
+        <item name="normal">Debilidad: Normal</item>
+        <item name="lucha">Debilidad: Lucha</item>
+        <item name="electrico">Debilidad: Eléctrico</item>
+        <item name="roca">Debilidad: Roca</item>
+        <item name="tierra">Debilidad: Tierra</item>
+        <item name="bicho">Debilidad: Bicho</item>
+        <item name="veneno">Debilidad: Veneno</item>
+        <item name="volador">Debilidad: Volador</item>
+        <item name="hielo">Debilidad: Hielo</item>
+        <item name="siniestro">Debilidad: Siniestro</item>
+        <item name="fantasma">Debilidad: Fantasma</item>
+        <item name="psiquico">Debilidad: Psíquico</item>
+        <item name="dragon">Debilidad: Dragón</item>
+        <item name="Hada">Debilidad: Hada</item>
+    </string-array>
+</resources>

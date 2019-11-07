@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerViewJusto</string>
+    <string name="verPokemon">Pokémon</string>
+    <string name="buscarPokemon">Buscar pokémon</string>
+    <string name="buscar">Buscar</string>
+    <string name="add">Añadir Pokémon</string>
+    <string name="delete">Borrar Pokémon</string>
+    <string name="nombre">Nombre</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="imagen">Imagen</string>
+</resources>
